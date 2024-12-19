@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/css/main.3d8411fc.css",
+    "main.js": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/js/main.d0f18f64.js",
+    "static/js/488.ddf588d7.chunk.js": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/js/488.ddf588d7.chunk.js",
+    "static/media/FullMoon.jpg": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/media/FullMoon.83cb51d3d5e79def3e4f.jpg",
+    "static/media/WaxingGibbous.jpg": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/media/WaxingGibbous.3027a183cee357dcebe7.jpg",
+    "static/media/WaxingCrescent.jpg": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/media/WaxingCrescent.68834be1a724c2057bc4.jpg",
+    "static/media/WaningCrescent.jpg": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/media/WaningCrescent.02d8832a3b860b3d0bae.jpg",
+    "static/media/NewMoon.jpg": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/media/NewMoon.6bf4d24e3a1884621381.jpg",
+    "static/media/LastQuarter.jpg": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/media/LastQuarter.69b48d18dcde673d41d1.jpg",
+    "static/media/FirstQuarter.jpg": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/media/FirstQuarter.487aae90d9e8d50cac8f.jpg",
+    "static/media/WaningGibbous.jpg": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/media/WaningGibbous.b0f3ed761a155a75d08b.jpg",
+    "index.html": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/index.html",
+    "main.3d8411fc.css.map": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/css/main.3d8411fc.css.map",
+    "main.d0f18f64.js.map": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/js/main.d0f18f64.js.map",
+    "488.ddf588d7.chunk.js.map": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/js/488.ddf588d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d8411fc.css",
+    "static/js/main.d0f18f64.js"
+  ]
+}
