@@ -1,0 +1,9 @@
+.georgia-text-glow{
+    font-family: 'Georgia', serif;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 0 0 20px rgba(255, 255, 255, 0.6), 0 0 30px rgba(255, 255, 255, 0.4);
+}
+
+.title-text-glow{
+    font-family: 'Georgia', serif;
+    text-shadow: 0 0 10px rgba(247, 229, 129, 0.4), 0 0 20px rgba(252, 225, 127, 0.4), 0 0 30px rgba(255, 255, 255, 0.2);
+}
