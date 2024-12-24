@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/css/main.3d8411fc.css",
-    "main.js": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/js/main.1cf274a9.js",
+    "main.js": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/js/main.a2059b13.js",
     "static/js/488.ddf588d7.chunk.js": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/js/488.ddf588d7.chunk.js",
     "static/media/FullMoon.jpg": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/media/FullMoon.83cb51d3d5e79def3e4f.jpg",
     "static/media/WaxingGibbous.jpg": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/media/WaxingGibbous.3027a183cee357dcebe7.jpg",
@@ -13,11 +13,11 @@
     "static/media/WaningGibbous.jpg": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/media/WaningGibbous.b0f3ed761a155a75d08b.jpg",
     "index.html": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/index.html",
     "main.3d8411fc.css.map": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/css/main.3d8411fc.css.map",
-    "main.1cf274a9.js.map": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/js/main.1cf274a9.js.map",
+    "main.a2059b13.js.map": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/js/main.a2059b13.js.map",
     "488.ddf588d7.chunk.js.map": "/MurshidtheDigitalNomad/Moon-Phase-Tracker/static/js/488.ddf588d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d8411fc.css",
-    "static/js/main.1cf274a9.js"
+    "static/js/main.a2059b13.js"
   ]
 }
